@@ -2,7 +2,7 @@
 # Nhlakanipho Mbambo
 
 📍 Pretoria, South Africa | 💻 Final-Year Computer Science Undergraduate  
-📧 Email: **mbambom15@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/nhlakanipho-mbambo) | 🖥️ [GitHub](https://github.com/mbambom15)
+📧 Email: **mbambom15@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/nhlakanipho-mbambo)
 
 ---
 

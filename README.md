@@ -65,6 +65,6 @@ I am a final-year Computer Science student with practical experience in web deve
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mbambom15&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=mbambom15&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbambom15&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph"/>
+  
   <img src="https://github-profile-trophy.vercel.app?username=mbambom15&theme=dracula&row=1&column=-1&margin-w=8&margin-h=8" height="150" alt="trophy graph"/>
 </div>
